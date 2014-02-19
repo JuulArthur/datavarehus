@@ -67,10 +67,8 @@
       <file leaf-file-name="AprioriItemSetGeneratorAndRuleGeneration.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/no/ntnu/idi/dm/arm/runnables/AprioriItemSetGeneratorAndRuleGeneration.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="94" column="26" selection-start="2462" selection-end="2462" vertical-scroll-proportion="0.0" vertical-offset="1163" max-vertical-offset="2370">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="94" column="26" selection-start="2462" selection-end="2462" vertical-scroll-proportion="0.0" vertical-offset="1013" max-vertical-offset="2220">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -78,10 +76,8 @@
       <file leaf-file-name="FKMinus1F1Apriori.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/no/ntnu/idi/dm/arm/apriori/FKMinus1F1Apriori.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="65" selection-start="1313" selection-end="1313" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="645">
-              <folding>
-                <element signature="e#672#684#0" expanded="true" />
-              </folding>
+            <state line="31" column="65" selection-start="1313" selection-end="1313" vertical-scroll-proportion="0.0" vertical-offset="166" max-vertical-offset="645">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -89,9 +85,9 @@
       <file leaf-file-name="FkMinus1FKMinus1.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/no/ntnu/idi/dm/arm/apriori/FkMinus1FKMinus1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="43" column="77" selection-start="1768" selection-end="1768" vertical-scroll-proportion="0.9373695" vertical-offset="196" max-vertical-offset="825">
+            <state line="45" column="55" selection-start="2137" selection-end="2137" vertical-scroll-proportion="0.5320088" vertical-offset="434" max-vertical-offset="975">
               <folding>
-                <element signature="e#440#452#0" expanded="true" />
+                <element signature="e#554#566#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -100,7 +96,7 @@
       <file leaf-file-name="AssociationRule.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/no/ntnu/idi/dm/arm/apriori/AssociationRule.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="92" column="16" selection-start="2018" selection-end="2018" vertical-scroll-proportion="0.0" vertical-offset="991" max-vertical-offset="1470">
+            <state line="92" column="16" selection-start="2018" selection-end="2018" vertical-scroll-proportion="0.0" vertical-offset="1380" max-vertical-offset="1710">
               <folding />
             </state>
           </provider>
@@ -109,7 +105,7 @@
       <file leaf-file-name="BruteForceApriori.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/no/ntnu/idi/dm/arm/apriori/BruteForceApriori.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="0" selection-start="1732" selection-end="1732" vertical-scroll-proportion="-26.538462" vertical-offset="0" max-vertical-offset="885">
+            <state line="46" column="0" selection-start="1732" selection-end="1732" vertical-scroll-proportion="0.0" vertical-offset="690" max-vertical-offset="885">
               <folding />
             </state>
           </provider>
@@ -118,7 +114,7 @@
       <file leaf-file-name="BaseApriori.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/no/ntnu/idi/dm/arm/apriori/BaseApriori.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="0" selection-start="1671" selection-end="1787" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="1665">
+            <state line="49" column="0" selection-start="1671" selection-end="1787" vertical-scroll-proportion="0.0" vertical-offset="735" max-vertical-offset="1740">
               <folding />
             </state>
           </provider>
@@ -127,7 +123,7 @@
       <file leaf-file-name="AbstractApriori.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/no/ntnu/idi/dm/arm/apriori/AbstractApriori.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="148" column="59" selection-start="4373" selection-end="4373" vertical-scroll-proportion="0.0" vertical-offset="1859" max-vertical-offset="2790">
+            <state line="148" column="59" selection-start="4373" selection-end="4373" vertical-scroll-proportion="0.0" vertical-offset="2220" max-vertical-offset="2925">
               <folding />
             </state>
           </provider>
@@ -186,7 +182,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -252,6 +247,7 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -261,10 +257,13 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="Errors" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
     <property name="recentsLimit" value="5" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dynamic.classpath" value="false" />
-    <property name="FullScreen" value="false" />
   </component>
   <component name="RunManager" selected="Application.AprioriItemSetGeneratorAndRuleGeneration">
     <configuration default="false" name="AprioriItemSetGeneratorAndRuleGeneration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -521,11 +520,12 @@
       <updated>1392634243914</updated>
       <workItem from="1392634248127" duration="6622000" />
       <workItem from="1392801297934" duration="4266000" />
+      <workItem from="1392812507049" duration="342000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10888000" />
+    <option name="totallyTimeSpent" value="11230000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="22" width="1400" height="860" extended-state="0" />
@@ -580,29 +580,74 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/no/ntnu/idi/dm/arm/runnables/AprioriItemSetGeneratorAndRuleGeneration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="94" column="26" selection-start="2462" selection-end="2462" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2370">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/no/ntnu/idi/dm/arm/apriori/FKMinus1F1Apriori.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="65" selection-start="1313" selection-end="1313" vertical-scroll-proportion="0.0" vertical-offset="465" max-vertical-offset="705">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/no/ntnu/idi/dm/arm/apriori/FkMinus1FKMinus1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="77" selection-start="1768" selection-end="1768" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="825">
+          <folding>
+            <element signature="e#554#566#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/no/ntnu/idi/dm/arm/apriori/AssociationRule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="92" column="16" selection-start="2018" selection-end="2018" vertical-scroll-proportion="0.0" vertical-offset="1380" max-vertical-offset="1710">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/no/ntnu/idi/dm/arm/apriori/BruteForceApriori.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="0" selection-start="1732" selection-end="1732" vertical-scroll-proportion="0.0" vertical-offset="690" max-vertical-offset="885">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/no/ntnu/idi/dm/arm/apriori/BaseApriori.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="0" selection-start="1671" selection-end="1787" vertical-scroll-proportion="0.0" vertical-offset="735" max-vertical-offset="1740">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/no/ntnu/idi/dm/arm/apriori/AbstractApriori.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="148" column="59" selection-start="4373" selection-end="4373" vertical-scroll-proportion="0.0" vertical-offset="2220" max-vertical-offset="2925">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/smallDataset.txt">
       <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="2" selection-start="2" selection-end="2" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
-          <folding />
-        </state>
+        <state line="0" column="2" selection-start="2" selection-end="2" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/apriori-template.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/no/ntnu/idi/dm/arm/runnables/AprioriItemSetGeneratorAndRuleGeneration.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="101" column="10" selection-start="2651" selection-end="2651" vertical-scroll-proportion="0.0" vertical-offset="1259" max-vertical-offset="2370">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -637,9 +682,7 @@
     <entry file="file://$PROJECT_DIR$/src/no/ntnu/idi/dm/arm/apriori/FKMinus1F1Apriori.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="46" selection-start="214" selection-end="214" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="480">
-          <folding>
-            <element signature="e#672#684#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -648,16 +691,12 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="2" selection-start="2" selection-end="2" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="375">
-          <folding />
-        </state>
+        <state line="0" column="2" selection-start="2" selection-end="2" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="375" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/apriori-template.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="763">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="763" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/no/ntnu/idi/dm/arm/apriori/ItemSet.java">
@@ -671,15 +710,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="49" column="0" selection-start="1671" selection-end="1787" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="1665">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/no/ntnu/idi/dm/arm/runnables/AprioriItemSetGeneratorAndRuleGeneration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="94" column="26" selection-start="2462" selection-end="2462" vertical-scroll-proportion="0.0" vertical-offset="1163" max-vertical-offset="2370">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -699,7 +729,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/no/ntnu/idi/dm/arm/apriori/BruteForceApriori.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="0" selection-start="1732" selection-end="1732" vertical-scroll-proportion="-26.538462" vertical-offset="0" max-vertical-offset="885">
+        <state line="46" column="0" selection-start="1732" selection-end="1732" vertical-scroll-proportion="0.0" vertical-offset="690" max-vertical-offset="885">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/no/ntnu/idi/dm/arm/runnables/AprioriItemSetGeneratorAndRuleGeneration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="94" column="26" selection-start="2462" selection-end="2462" vertical-scroll-proportion="0.0" vertical-offset="1013" max-vertical-offset="2220">
           <folding />
         </state>
       </provider>
@@ -707,17 +744,15 @@
     <entry file="file://$PROJECT_DIR$/src/no/ntnu/idi/dm/arm/apriori/FKMinus1F1Apriori.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="31" column="65" selection-start="1313" selection-end="1313" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="645">
-          <folding>
-            <element signature="e#672#684#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/no/ntnu/idi/dm/arm/apriori/FkMinus1FKMinus1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="77" selection-start="1768" selection-end="1768" vertical-scroll-proportion="0.9373695" vertical-offset="196" max-vertical-offset="825">
+        <state line="45" column="55" selection-start="2137" selection-end="2137" vertical-scroll-proportion="0.5320088" vertical-offset="434" max-vertical-offset="975">
           <folding>
-            <element signature="e#440#452#0" expanded="true" />
+            <element signature="e#554#566#0" expanded="true" />
           </folding>
         </state>
       </provider>
