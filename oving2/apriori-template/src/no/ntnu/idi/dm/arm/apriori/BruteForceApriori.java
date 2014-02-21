@@ -4,11 +4,11 @@ import java.util.List;
 
 public class BruteForceApriori<V> extends BaseApriori<V> {
 
-	public BruteForceApriori(List<ItemSet<V>> transactions) {
-		super(transactions);
-	}
+    public BruteForceApriori(List<ItemSet<V>> transactions) {
+        super(transactions);
+    }
 
-	@Override
+    @Override
     public void apriori(Double minSupport) {
         // get frequent 1-itemsets
         List<ItemSet<V>> generateCandidateSizeK = getAllItemsetsOfSizeOne();
@@ -18,8 +18,9 @@ public class BruteForceApriori<V> extends BaseApriori<V> {
         System.out.println("\tGenerated " + generateCandidateSizeK.size()
                 + " candidates.");
         System.out.println("\t\t" + generateCandidateSizeK);
-
-
+        currentLevelFrequent = pruneInfrequentCandidates(minSupport,generateCandidateSizeK);
+        System.out.println("\tKept " + currentLevelFrequent.size()
+                + " frequent itemsets");
         for (int i = 2;i<10; i++) {
 
             // generate candidates for level i
